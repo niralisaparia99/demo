@@ -1,0 +1,46 @@
+{
+  "students" : [
+  {
+      "name" : "rohan",
+      "std" : 10,
+      "fees" : 50000,
+      "paid" : 20000
+  },
+    {
+      "name" : "sasuke",
+      "std" : 7,
+      "fees" : 50000,
+      "paid" : 20000
+  },
+    {
+      "name" : "naruto",
+      "std" : 8,
+      "fees" : 50000,
+      "paid" : 40000
+  },
+    {
+      "name" : "pain",
+      "std" : 8,
+      "fees" : 50000,
+      "paid" : 30000
+  },
+    {
+      "name" : "konan",
+      "std" : 9,
+      "fees" : 50000,
+      "paid" : 10000
+  },
+    {
+      "name" : "prit",
+      "std" : 9,
+      "fees" : 50000,
+      "paid" : 15000
+  },
+    {
+      "name" : "mohan",
+      "std" : 10,
+      "fees" : 50000,
+      "paid" : 22000
+  }
+]
+}
